@@ -1,4 +1,6 @@
 # t-SNE
-```sh
 
+```sh
+python3 t-SNE
 ```
+
