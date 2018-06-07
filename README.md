@@ -1,4 +1,4 @@
-# t-SNE
+# Visualize Facial Attribute by t-SNE
 This code can do visuarization what recognition result distribution of Discriminator's hidden layer with t-SNE.
 Discriminator learned with Generative Adversarial Networks (GANs).  The GANs's Discriminator require that facial attribute recognition branch.
 
